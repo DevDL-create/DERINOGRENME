@@ -42,7 +42,7 @@ Kullanılan modeller:
 - EfficientNetB0
 - EfficientNetB4
 - DenseNet121
-  RegNetX-8GF
+- RegNetX-8G
 
 ---
 
