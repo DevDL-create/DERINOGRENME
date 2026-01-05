@@ -77,7 +77,8 @@ Veri setine aşağıdaki link üzerinden ulaşabilirsiniz:
 
 Projenin detaylı anlatımını içeren sunum videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-🔗 https://www.youtube.com/YOUTUBE_VIDEO_LINKI
+
+🔗 https://www.youtube.com/[YOUTUBE_VIDEO_LINKI](https://www.youtube.com/watch?v=qSmodlwP2H8)
 
 
 
